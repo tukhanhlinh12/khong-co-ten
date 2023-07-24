@@ -1,0 +1,64 @@
+body {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+.header{
+  text-align: center;
+}
+.month {
+  padding: 7px;
+  margin: 40px 105px 40px 50px;
+  background-color: white;
+  color: #242424;
+}
+.sale {
+  padding: 3px;
+  margin: 2px;
+  background-color: orangered;
+  color: aliceblue;
+}
+.number {
+  padding: 5px;
+  margin-left: 1130px; 
+  border-radius: 50%;
+  background-color: #242424;
+  color: azure;
+}
+
+.home {
+  display: flex;
+  justify-content: space-between;
+  padding: 58px;
+}
+
+.noname {
+  border: 1px solid #ccc;
+  width: 30%;
+  background-color: azure;
+  color: #242424;
+}
+
+.imager {
+  width: 100%; 
+  height: auto;
+}
+
+.nolife {
+  padding: 10px;
+}
+
+.nolike {
+  padding: 20px;
+  font-size: 20px;
+  background-color: #242424;
+}
+.nolikes {
+  padding: 20px 20px 20px 20px;
+  margin-left: 135px;
+  font-size: 20px;
+  background-color: orangered;
+}
