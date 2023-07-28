@@ -1,0 +1,158 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  
+  background-color: #242424;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+}
+.navbar{
+  position: fixed;
+  background-color: #242424;
+  display: flex;
+}
+.header{
+  text-align: center;
+}
+.month {
+  padding: 7px;
+  margin: 40px 105px 40px 50px;
+  background-color: white;
+  color: #242424;
+}
+.sale {
+  padding: 3px;
+  margin: 2px;
+  background-color: orangered;
+  color: aliceblue;
+}
+.number {
+  padding: 5px;
+  margin-left: 1130px; 
+  border-radius: 50%;
+  background-color: #242424;
+  color: azure;
+}
+
+.home {
+  display: flex;
+  justify-content: space-between;
+  padding: 58px;
+}
+
+.noname {
+  border: 1px solid #ccc;
+  width: 30%;
+  background-color: azure;
+  color: #242424;
+}
+
+.imager {
+  width: 100%; 
+  height: auto;
+}
+
+.nolife {
+  padding: 10px;
+}
+
+.nolike {
+  padding: 20px;
+  font-size: 20px;
+  background-color: #242424;
+}
+.nolikes {
+  padding: 20px 20px 20px 20px;
+  margin-left: 135px;
+  font-size: 20px;
+  background-color: orangered;
+}
+.footer {
+  background-color: rgba(241, 190, 25, 0.904);
+  text-align: center;
+}
+.abcd {
+  display: flex;
+  justify-content: center;
+}
+.texts {
+  color: gray;
+  font-style: italic;
+}
+.post {
+  padding: 7px;
+}
+.city {
+  margin-right: 105px;
+}
+.phonez{
+  margin-right: 30px;
+}
+.emailz{
+  margin-right: 10px;
+}
+.nameone {
+  font-size: 14px;
+  margin: 2px;
+  padding: 10px;
+  background-color: white;
+  color: #242424;
+  border: none;
+}
+.nameones {
+  font-size: 14px;
+  margin: 2px;
+  padding:10px 207px 10px 10px;
+  background-color: white;
+  color: #242424;
+  border: none;
+}
+.nametwo {
+  background-color: #242424;
+  border: none;
+  padding: 10px;
+  margin-left: 335px;
+}
+.modal {
+  padding: 90px;
+}
+.modal-content {
+  background-color: white;
+  
+}
+.ticket {
+  background-color:rgb(228, 198, 5);
+  text-align: center;
+  padding: 10px;
+}
+.form-group {
+  background-color: white;
+  padding: 10px;
+  padding-right: 1100px;
+  border: 0.7px solid gray;
+  color: black;
+}
+.form-live{
+  padding: 10px;
+}
+.form-lives{
+  padding: 10px;
+}
+.dola {
+  color: #242424;
+}
+.payz{
+  font-size: 17px;
+  background-color: rgb(237, 205, 24);
+  color: #242424;
+  border: none;
+  padding: 10px 20px 10px 20px;
+}
+.closez{
+  border: none;
+  padding: 8px;
+  margin: 10px;
+}
