@@ -1,0 +1,50 @@
+.form-group {
+    background-color: rgb(118, 111, 192);
+    margin: 35px 320px 0px 320px;
+    padding: 23px;
+    border-radius: 15px;
+}
+label {
+    color: aliceblue;
+}
+.form-control {
+    width: 75%;
+    padding: 7px 60px 7px 30px;
+    margin: 1px 0px 0px 45px;
+    border: none;
+    border-radius: 8px;
+}
+.form-controls {
+    width: 73%;
+    padding: 7px 80px 7px 30px;
+    margin: 1px 0px 1px 30px;
+    border: none;
+    border-radius: 8px;
+}
+
+.form-controlz {
+    width: 75%;
+    padding: 7px 70px 7px 25px;
+    margin: 1px 0px 1px 55px;
+    border: none;
+    border-radius: 8px;
+}
+.buttonf{
+    margin: 1px 30px 1px 680px;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: rgb(205, 44, 154);
+    box-shadow: 0px 2px 5px rgba(14, 12, 12, 0.2);
+    font-weight: bold;
+}
+.buttonx {
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(161, 152, 152);
+    color: rgb(57, 55, 55);
+    box-shadow: 0px 2px 5px rgba(14, 12, 12, 0.2);
+    font-weight: bold;
+}
