@@ -1,0 +1,25 @@
+.header {
+    text-align: center;
+}
+
+.month {
+    padding: 7px;
+    margin: 40px 105px 40px 50px;
+    background-color: white;
+    color: #242424;
+}
+
+.sale {
+    padding: 3px;
+    margin: 2px;
+    background-color: orangered;
+    color: aliceblue;
+}
+
+.ticket {
+    padding: 5px;
+    margin-left: 1130px;
+    border-radius: 50%;
+    background-color: #242424;
+    color: azure;
+}

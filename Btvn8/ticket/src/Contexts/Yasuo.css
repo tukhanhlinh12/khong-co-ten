@@ -1,0 +1,33 @@
+.home {
+    display: flex;
+    justify-content: space-between;
+    padding: 58px;
+}
+
+.noname {
+    border: 1px solid #ccc;
+    width: 30%;
+    background-color: azure;
+    color: #242424;
+}
+
+.nolife {
+    padding: 10px;
+}
+
+.nolike {
+    padding: 20px;
+    font-size: 20px;
+    background-color: #0a0909;
+    color: aliceblue;
+    border: none;
+}
+
+.nolikes {
+    padding: 20px 20px 20px 20px;
+    margin-left: 135px;
+    font-size: 20px;
+    background-color: orangered;
+    color: aliceblue;
+    border: none;
+}
